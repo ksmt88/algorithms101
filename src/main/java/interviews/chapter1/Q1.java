@@ -3,7 +3,7 @@ package interviews.chapter1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Q1_1 {
+public class Q1 {
     public boolean isDuplicate(String text) {
 
         Map<Character, Boolean> m = new HashMap<>();

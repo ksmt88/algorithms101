@@ -4,13 +4,13 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class Q1_1Test {
+public class Q1Test {
 
-    private Q1_1 q;
+    private Q1 q;
 
     @Before
     public void SetUp() {
-        this.q = new Q1_1();
+        this.q = new Q1();
     }
 
     @Test
